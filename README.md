@@ -1,6 +1,6 @@
 # Email spam classification
 
-Classify emails as spam or not-spam using an encoder-only transformer-based model with 2 layers and 4 heads. 
+Simple project, classify emails as spam or not-spam using an encoder-only transformer-based model with 2 layers and 4 heads. 
 
 Tiktoken for BPE-encoding and Pytorch modules for everything except the higher-level model implementation. For more grass-roots implementations see my "neural network from scratch" and "LLM from scratch" repositories.
 
